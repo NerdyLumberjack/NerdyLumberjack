@@ -9,3 +9,6 @@
 NerdyLumberjack/NerdyLumberjack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Apt-get install knownledge...
+1/6 https://www.coursera.org/account/accomplishments/records/UJLFUGEAVSQ8?utm_source=android&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
